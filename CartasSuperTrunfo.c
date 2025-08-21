@@ -1,3 +1,5 @@
+//Desafio do super-trunfo, relacionado a fundamentos e técnicas avançadas. É esperado que esse código cumpra os requisitos do nivel mestre, por mais que não tenho 100% de certeza disso.
+
 #include <stdio.h>
 
 int main(){
